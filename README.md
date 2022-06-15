@@ -5,3 +5,5 @@ Sebuah Aplikasi Berbasis Web dengan nama Al-Qur'an Online yang dibuat dengan bah
 Fitur :
 - Mencari Surat yang ingin dicari
 - Membaca Surat
+
+Demo Aplikasi : https://ariframadhan01.github.io/AlQuran-Online/
